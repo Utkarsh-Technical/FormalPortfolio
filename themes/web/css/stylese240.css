@@ -1412,7 +1412,7 @@ footer{height:auto; display:block; border-top:var(--white-02) 1px solid; backgro
 				.header_navigation .mobile_information{display:block; margin:85px 0 0; border-top:var(--gray-02) 1px solid;}
 
 					/*Contact*/
-					.header_navigation .mobile_information .content_contact{width:calc(100% - 50px;); float:left;}
+					.header_navigation .mobile_information .content_contact{width:calc(100% - 50px); float:left;}
 
 						/*Place*/
 						.header_navigation .mobile_information .content_contact li.place{margin:0 0 25px;}
